@@ -1,1 +1,1 @@
-This a similar app to Stake Mines made using HTML, CSS and JavaScript.
+This is a similar app to Stake Mines made using HTML, CSS and JavaScript.
